@@ -4,6 +4,8 @@ AppendixG
 TMatFinCodes
 
 
+Read Appendix G of "Bonds With Credit Risk and Call Provisions" for details. 
+
 Treasury Process Codes:
 
 Defaultable Process Codes:

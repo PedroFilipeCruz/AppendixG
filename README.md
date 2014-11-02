@@ -7,6 +7,8 @@ TMatFinCodes
 Read Appendix G of "Bonds With Credit Risk and Call Provisions" for details. 
 
 Treasury Process Codes:
+cirmeutent.m
+cirmeulike2.m
 
 Defaultable Process Codes:
 
